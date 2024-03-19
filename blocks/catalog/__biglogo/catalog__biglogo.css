@@ -1,0 +1,9 @@
+.catalog__biglogo {
+  position: absolute;
+  top: 0px;
+  right:-40px;
+}
+
+.catalog__biglogo_last {
+  left:-40px
+}

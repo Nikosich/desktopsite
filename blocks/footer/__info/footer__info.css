@@ -1,0 +1,9 @@
+.footer__info {
+  color: black;
+  font-size: 15px;
+  line-height: 24px;
+  font-weight: 400;
+  text-transform: uppercase;
+  text-align: center;
+  padding-top: 10px;
+}

@@ -1,0 +1,10 @@
+.lead__name {
+  position: absolute;
+  margin-left: 51px;
+  margin-top: 64px;
+}
+
+.lead__name:first-of-type {
+  z-index: -1;
+  margin: 0;
+}

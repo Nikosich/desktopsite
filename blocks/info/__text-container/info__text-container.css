@@ -1,0 +1,11 @@
+.info__text-container {
+  position: absolute;
+  display:flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 432px;
+  width: 392px;
+  text-align: center;
+  top:120px;
+  left:152px;
+}

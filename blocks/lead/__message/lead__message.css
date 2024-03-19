@@ -1,0 +1,7 @@
+.lead__message {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  height: 78px;
+  border-bottom: solid 1px black;
+}

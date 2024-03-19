@@ -1,0 +1,13 @@
+.header__link {
+  text-decoration: none;
+  color: black;
+  font-size: 14px;
+  line-height: 21.6px;
+  font-weight: 400;
+  text-transform: uppercase;
+  width: 144px;
+  height:52px;
+  text-align: center;
+  padding-top: 25px;
+}
+

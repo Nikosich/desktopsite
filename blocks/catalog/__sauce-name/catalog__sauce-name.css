@@ -1,0 +1,13 @@
+.catalog__sauce-name {
+  font-size: 32px;
+  letter-spacing: 0.5px;
+  line-height: 38px;
+  font-weight: 500;
+  position: absolute;
+  text-transform: uppercase;
+  text-align: center;
+  width: 360px;
+  height: 39px;
+  top:150px;
+  left: 38px;
+}

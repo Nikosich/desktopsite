@@ -1,0 +1,9 @@
+.lead__container {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+}
+
+.lead__container:first-of-type {
+  border-right: solid 1px black;;
+}

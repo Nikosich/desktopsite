@@ -1,0 +1,13 @@
+.catalog__text {
+  font-size: 18px;
+  letter-spacing: 0.5px;
+  line-height: 28px;
+  font-weight: 400;
+  position: absolute;
+  text-transform: uppercase;
+  text-align: center;
+  width: 360px;
+  height: 39px;
+  top:110px;
+  left: 36px;
+}

@@ -1,0 +1,12 @@
+.footer__link {
+  text-decoration: none;
+  color: black;
+  font-size: 15px;
+  line-height: 24px;
+  font-weight: 400;
+  text-transform: uppercase;
+  width: 144px;
+  height:52px;
+  text-align: center;
+  padding-top: 20px;
+}

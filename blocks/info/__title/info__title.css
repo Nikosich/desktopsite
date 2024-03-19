@@ -1,0 +1,10 @@
+.info__title {
+  color: black;
+  font-size: 58px;
+  line-height: 64.5px;
+  font-weight: 400;
+  text-transform: uppercase;
+  text-align: center;
+  width:590px;
+  margin-left: 55px;
+}

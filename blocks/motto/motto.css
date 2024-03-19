@@ -1,0 +1,8 @@
+.motto {
+  display:flex;
+  flex-direction: row;
+  justify-content: space-between;
+  border-top: solid 1px black;
+  border-bottom: solid 1px black;
+  height: 273px;
+}
